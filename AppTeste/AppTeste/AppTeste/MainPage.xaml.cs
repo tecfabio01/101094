@@ -16,6 +16,7 @@ namespace AppTeste
         public MainPage()
         {
             InitializeComponent();
+            DisplayAlert("Mensagem","Bem vindo","Ok");
         }
     }
 }
