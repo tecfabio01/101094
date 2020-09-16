@@ -1,0 +1,14 @@
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\bin\Debug\netstandard2.0\AppHospital.deps.json
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\bin\Debug\netstandard2.0\AppHospital.dll
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\bin\Debug\netstandard2.0\ref\AppHospital.dll
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\bin\Debug\netstandard2.0\AppHospital.pdb
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\obj\Debug\netstandard2.0\AppHospital.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\obj\Debug\netstandard2.0\AppHospital.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\obj\Debug\netstandard2.0\AppHospital.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\obj\Debug\netstandard2.0\AppHospital.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\obj\Debug\netstandard2.0\AppHospital.dll
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\obj\Debug\netstandard2.0\ref\AppHospital.dll
+C:\Users\Fabio\source\repos\101094\AppHospital\AppHospital\AppHospital\obj\Debug\netstandard2.0\AppHospital.pdb
